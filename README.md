@@ -20,7 +20,7 @@ Esta aplicación de Android permite a los usuarios convertir la edad de una pers
 
 - Android Studio 4.0 o superior.
 - Kotlin 1.4 o superior.
-- Dispositivo o emulador con Android 5.0 (Lollipop) o superior.
+- SDK Mínimo API 24 ("Nougat"; Android 7.0)
 
 ## Instalación
 
